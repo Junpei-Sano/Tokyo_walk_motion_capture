@@ -1,0 +1,8 @@
+unityメモ
+
+Oculusを使う時
+・Event System の OVR Input Module をオン
+・Event System の Input System UI Input Module をオフ
+
+Input Systemを使う時
+・上の逆

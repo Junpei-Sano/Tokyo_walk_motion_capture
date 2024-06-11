@@ -1,0 +1,3 @@
+Pythonnetを使う場合はここに
+「Python.Runtime.dll」を
+配置する
