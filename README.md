@@ -1,5 +1,6 @@
 # Tokyo_walk_motion_capture
-モーションキャプチャから得られたデータでプレイヤーを操作するゲーム
+- モーションキャプチャから得られたデータでプレイヤーを操作するゲーム
+- https://www.notion.so/RNN-7db886672ad24f2ba01a8fef4446d488?pvs=4
 
 ## PyTorch/
 - Pythonで動かすプログラム類
